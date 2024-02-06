@@ -1,4 +1,5 @@
 # Password-Manager
+## Introduction
 The project aims to provide a secure and convenient way to store and access passwords for 
 various online accounts. The project has three main features: 
 - Password generator: This feature allows the user to create strong and random passwords for 
